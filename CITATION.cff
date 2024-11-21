@@ -1,0 +1,47 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: daffodil-lib
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Osama
+    family-names: Yousuf
+    email: osamayousuf@gwmail.gwu.edu
+    affiliation: George Washington University
+    orcid: 'https://orcid.org/0000-0002-7123-3982'
+  - given-names: Karthick
+    family-names: Ramu
+    email: karthick.ramu@nist.gov
+    affiliation: National Institute of Standards and Technology
+  - given-names: Mitchell
+    family-names: Fream
+    affiliation: National Institute of Standards and Technology
+    orcid: 'https://orcid.org/0009-0003-1692-9359'
+  - given-names: Matthew
+    family-names: Daniels
+    name-particle: W.
+    email: matthew.daniels@nist.gov
+    affiliation: National Institute of Standards and Technology
+    orcid: 'https://orcid.org/0000-0002-3390-4714'
+  - given-names: Brian
+    family-names: Hoskins
+    affiliation: National Institute of Standards and Technology
+    orcid: 'https://orcid.org/0000-0002-9418-9291'
+  - given-names: Martin
+    family-names: Lueker-Boden
+    affiliation: Western Digital Research
+  - given-names: Gina
+    family-names: Adam
+    email: GinaAdam@gwu.edu
+    affiliation: George Washington University
+    orcid: 'https://orcid.org/0000-0003-0027-1145'
+repository-code: 'https://github.com/usnistgov'
+keywords:
+  - hardware prototyping
+  - resistive memories
+  - memory test-vehicle
+license: MIT
