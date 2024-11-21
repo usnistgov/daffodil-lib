@@ -33,12 +33,12 @@ categories:
   # - performance-and-workflow
   - scientific-software
   # - simulation
-  # - tools
+  - tools
   # - visualization
 
 themes:
-  - Information Technology
-    - Data and informatics
+  #- Information Technology
+  #  - Data and informatics
   # - Advanced communications
   #     - Optical communications
   #     - Quantum communications
@@ -225,11 +225,11 @@ themes:
   #     - Statistical analysis
   #     - Uncertainty quantification
   #
-  # - Metrology
+  - Metrology
   #     - Acoustic/vibration metrology
   #     - Amount of substance
   #     - Dimensional metrology
-  #     - Electrical and electromagnetic metrology
+      - Electrical and electromagnetic metrology
   #     - Flow metrology and rheology
   #     - Force metrology
   #     - Humidity metrology
@@ -242,16 +242,16 @@ themes:
   #     - Time and frequency metrology
   #     - Weights and measures
   #
-  # - Nanotechnology
+  - Nanotechnology
   #     - Nanobiotechnology
   #     - Nanochemistry
-  #     - Nanoelectronics
-  #     - Nanofabrication/manufacturing
+      - Nanoelectronics
+      - Nanofabrication/manufacturing
   #         - Lithography
   #         - Self-assembly
   #     - Nanofluidics
   #     - Nanomagnetics
-  #     - Nanomaterials
+      - Nanomaterials
   #     - Nanomechanics
   #     - Nanometrology
   #     - Nanophotonics
