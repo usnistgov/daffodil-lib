@@ -28,8 +28,8 @@ To compile the API documentation, run `make html` from within the `docs` directo
 If you use this library, please cite this repository according to the information in `CITATION.cff`.
 
 Depending on your usage, it may also be appropriate to cite the following papers:
- - *A system for validating resistive neural network prototypes* ([https://doi.org/10.1145/3477145.3477260](doi:10.1145/3477145.3477260)), which first proposed the Daffodil platform;
- - *Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural Network Performance* ([https://doi.org/10.48550/arXiv.2404.15621](doi:10.48550/arXiv.2404.15621)), the first published work to utilize a fully-integrated Daffodil system
+ - *A system for validating resistive neural network prototypes* ([doi:10.1145/3477145.3477260](https://doi.org/10.1145/3477145.3477260)), which first proposed the Daffodil platform;
+ - *Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural Network Performance* ([doi:10.48550/arXiv.2404.15621](https://doi.org/10.48550/arXiv.2404.15621)), the first published work to utilize a fully-integrated Daffodil system
 
 ## Acknowledgements
 
